@@ -1,0 +1,21 @@
+.home{
+
+    background: url(../images/sky.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.box{
+    background-color: rgba(0, 0, 0, 0.428);
+}
+
+.box2 p{
+    padding: 0;
+    margin: 0;
+}
+
+
+.main{
+    background-color: rgb(59, 121, 150);
+}
